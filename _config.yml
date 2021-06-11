@@ -11,7 +11,7 @@ description: Try to use Git / Github
   head meta (for Google search results) and in your feed.xml site 
   description.
 copyright: 'Copyright &copy; 2021 HyeokJun Gil. All Rights Reserved.'
-credits: 'Credits: This blog is intended for open source assignments.Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+credits: 'Credits: This blog is intended for open source assignments.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
