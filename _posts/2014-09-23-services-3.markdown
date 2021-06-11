@@ -2,7 +2,12 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Store
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+These are exchanges that many people use.<br/>
+많은 사람들이 이용하는 거래소 입니다. <br/><br/>
+You have to pay attention to fake products because they are in greater demand than supply.<br/>
+공급보다 수요가 많기 때문에 가품에 유의해야 합니다.<br/><br/>
+It's a reliable site.<br/>
+믿을 수 있는 사이트입니다.
