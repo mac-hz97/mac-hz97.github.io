@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: To Jordan's world. <br/> 조던의 세계로.
+title: To Air Jordan World. <br/> 조던의 세계로.
 description: |
 ---
 Why are so many people crazy about Jordan?<br/>
@@ -10,9 +10,9 @@ Why are so many people crazy about Jordan?<br/>
 Try them on and you'll know the answer.<br/>
 신어보면 답을 알 수 있습니다.<br/><br/>
 You have to pay attention to fake products because they are in greater demand than supply.<br/>
-에어 조던은 공급보다 수요가 많기 때문에 가품에 유의해야 합니다.<br/><br/>
+조던은 공급보다 수요가 많기 때문에 가품에 유의해야 합니다.<br/><br/>
 It's a reliable site.<br/>
-믿을 수 있는 사이트입니다.<br/>
+믿을 수 있는 사이트입니다.<br/><br/>
 KREAM크림:<a href="https://kream.co.kr/">KREAM</a><br/>
 SOLD OUT솔드아웃:<a href="https://soldout.co.kr/">SOLD OUT</a>
 
